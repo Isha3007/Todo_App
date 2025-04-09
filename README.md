@@ -26,4 +26,3 @@ A simple and efficient ToDo web application built with **Python Flask** and **SQ
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Isha3007/Todo_App.git
-   cd todoapp-flask
